@@ -6,11 +6,13 @@ This study adapt a human computer interactive appraoch to draw patterns from cri
 
 
 For detailed interpretation and analysis, please refer to the Research Paper at the following link:
+https://www.preprints.org/manuscript/202101.0292/v1
+
+##### Citation
+Lau, H.Y. Discovering Spatio-Temporal Pattern of City Crime – Visual Analysis on Felony Crime in New York. Preprints 2021, 2021010292 (doi: 10.20944/preprints202101.0292.v1).
 
 ## Remarks on Map
 - Since Folium maps may not be observed from Jupyter Notebook, please refer to 'map' Folder to access maps generated from Jupyter Notebook
-
-
 
 ## Data Souce
 -  NYPD, NYPD Complaint Data Historic, 2006-2019, Published by NYC OpenData. Accessed on: 29/12/2020. Available at: https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
